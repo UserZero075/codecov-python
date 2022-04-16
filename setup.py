@@ -39,7 +39,7 @@ setup(
     author_email=about["__author_email__"],
     url=about["__url__"],
     license=about["__license__"],
-    packages=["codecov"],
+    packages=["codeco"],
     include_package_data=True,
     zip_safe=True,
     install_requires=["requests>=2.7.9", "coverage"],
